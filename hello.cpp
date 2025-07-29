@@ -1,4 +1,3 @@
-#include <print>
 #include <node.h>
 
 void Method(const v8::FunctionCallbackInfo<v8::Value> &args) {
