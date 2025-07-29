@@ -1,0 +1,1 @@
+This is a very basic example of most straightforward way of building Node.js native addon without gyp or cmake-js. It is just building static library with .node extension (instead of .so) and straight loading it with `require`.
